@@ -14,7 +14,7 @@ git add . // เพิ่มไฟล์ทั้งหมด
 git commit -m "first commit" // สร้าง commit ขึ้นมา
 git remote add origin https://github.com/michaelfaraday1452/test.git // เพิ่ม remote ขึ้นมา
 git push // การเช็ค
-git push --set-upstream origin main // code ไปเก็บที่ server
+git push --set-upstream origin master // code ไปเก็บที่ server
 
 git push -u origin main // ส่งไปยัง remote
 git branch -M main // สร้าง branch ขึ้นมา
