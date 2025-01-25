@@ -1,0 +1,59 @@
+npm init // ได้ package.json ขึ้นมา
+npm i express // ได้ node_modules ขึ้นมา
+npm i body-parser // ได้เพิ่มใน package.json ขึ้นมา
+npm i dotenv // อ่านค่า config // ข้อมูลความลับ
+npm i typescript ts-node @types/node --save-dev // เป็นตัวช่วยในการเขียนโค้ด
+npm i prisma --save-dev // เป็นตัวช่วยในการเขียนโค้ด
+
+npx prisma init --datasource-provider mongodb // สร้างไฟล์ prisma ขึ้นมา
+npx prisma generate // อ่านโครงสร้างของ model ของ prisma
+
+
+git init // สร้าง git ขึ้นมา
+git add . // เพิ่มไฟล์ทั้งหมด
+git commit -m "first commit" // สร้าง commit ขึ้นมา
+git remote add origin https://github.com/michaelfaraday1452/test.git // เพิ่ม remote ขึ้นมา
+git push // การเช็ค
+git push --set-upstream origin main // code ไปเก็บที่ server
+
+git push -u origin main // ส่งไปยัง remote
+git branch -M main // สร้าง branch ขึ้นมา
+
+
+node --watch server.ts // รัน server
+
+dir // เช็คว่ามีไฟล์
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user: michaelfaraday1452
+password: NTyxD91JnND5s2Nv
